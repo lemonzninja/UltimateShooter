@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UltimateShooter",
+			"Path": "D:\\Projects\\Unreal Projects\\Udemy\\Cpp\\UltimateShooter\\UltimateShooter\\Source\\UltimateShooter.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UltimateShooterEditor",
+			"Path": "D:\\Projects\\Unreal Projects\\Udemy\\Cpp\\UltimateShooter\\UltimateShooter\\Source\\UltimateShooterEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Projects\\Unreal Projects\\Udemy\\Cpp\\UltimateShooter\\UltimateShooter\\Source\\UltimateShooter\\UltimateShooter.Build.cs",
+		"D:\\Projects\\Unreal Projects\\Udemy\\Cpp\\UltimateShooter\\UltimateShooter\\Source\\UltimateShooter.Target.cs",
+		"D:\\Projects\\Unreal Projects\\Udemy\\Cpp\\UltimateShooter\\UltimateShooter\\Source\\UltimateShooterEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}
