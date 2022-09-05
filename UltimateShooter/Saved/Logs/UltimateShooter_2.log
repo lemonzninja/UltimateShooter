@@ -886,3 +886,274 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.09.04-23.28.12:737][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2022.09.04-23.28.12:861][  1]LogAssetRegistry: Asset discovery search completed in 14.5042 seconds
 [2022.09.04-23.28.12:882][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000006 seconds (updated 0 objects)
+[2022.09.04-23.31.47:681][119]LogRenderer: Reallocating scene render targets to support 1256x656 Format 10 NumSamples 1 (Frame:2510).
+[2022.09.04-23.31.47:734][120]LogRenderer: Reallocating scene render targets to support 1276x656 Format 10 NumSamples 1 (Frame:2512).
+[2022.09.04-23.31.47:781][121]LogRenderer: Reallocating scene render targets to support 1284x656 Format 10 NumSamples 1 (Frame:2514).
+[2022.09.04-23.31.47:932][132]LogRenderer: Reallocating scene render targets to support 1288x656 Format 10 NumSamples 1 (Frame:2518).
+[2022.09.04-23.31.47:977][133]LogRenderer: Reallocating scene render targets to support 1292x656 Format 10 NumSamples 1 (Frame:2520).
+[2022.09.04-23.31.48:014][134]LogRenderer: Reallocating scene render targets to support 1296x656 Format 10 NumSamples 1 (Frame:2522).
+[2022.09.04-23.31.48:063][135]LogRenderer: Reallocating scene render targets to support 1300x656 Format 10 NumSamples 1 (Frame:2524).
+[2022.09.04-23.31.48:109][136]LogRenderer: Reallocating scene render targets to support 1304x656 Format 10 NumSamples 1 (Frame:2526).
+[2022.09.04-23.32.15:820][368]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.04-23.32.15:835][368]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.04-23.32.15:836][368]LogSlate: Took 0.000565 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.04-23.32.25:147][485]LogContentBrowser: Attempting asset rename: NewFolder -> _Game
+[2022.09.04-23.32.25:150][485]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.04-23.32.29:241][967]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.04-23.32.29:264][967]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.04-23.32.40:505][316]LogContentBrowser: Attempting asset rename: NewFolder -> Character
+[2022.09.04-23.32.40:505][316]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.04-23.32.44:143][735]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.04-23.32.44:163][735]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.04-23.32.56:304][186]LogContentBrowser: Attempting asset rename: NewFolder -> GameMode
+[2022.09.04-23.32.56:305][186]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.04-23.33.00:983][724]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2022.09.04-23.33.00:997][724]LogContentBrowser: Creating deferred item: NewFolder
+[2022.09.04-23.33.08:109][577]LogContentBrowser: Attempting asset rename: NewFolder -> Maps
+[2022.09.04-23.33.08:109][577]LogContentBrowser: End creating deferred item NewFolder
+[2022.09.04-23.33.38:035][156]LogSlate: Window 'Save Level As' being destroyed
+[2022.09.04-23.33.38:053][156]LogSlate: Took 0.000536 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.09.04-23.33.38:082][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap" FILE="D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/DefaultMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.09.04-23.33.38:093][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.09.04-23.33.38:119][156]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Saved/DefaultMapEC78C114417C7C4D73B61A9AB4503C09.tmp' to 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/DefaultMap.umap'
+[2022.09.04-23.33.38:129][156]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/DefaultMap_BuiltData" FILE="D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/DefaultMap_BuiltData.uasset" SILENT=true
+[2022.09.04-23.33.38:155][156]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Saved/DefaultMap_BuiltData71FF4693486DA88670962A87752386EC.tmp' to 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/DefaultMap_BuiltData.uasset'
+[2022.09.04-23.33.38:166][156]LogFileHelpers: Saving map 'DefaultMap' took 0.122
+[2022.09.04-23.33.38:166][156]Cmd: MAP LOAD FILE="D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/DefaultMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.09.04-23.33.38:190][156]LightingResults: New page: Lighting Build
+[2022.09.04-23.33.38:190][156]LoadErrors: New page: Loading map: DefaultMap.umap
+[2022.09.04-23.33.38:192][156]LogWorld: UWorld::CleanupWorld for DefaultMap, bSessionEnded=true, bCleanupResources=true
+[2022.09.04-23.33.38:192][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.04-23.33.38:193][156]MapCheck: New page: Map Check
+[2022.09.04-23.33.38:193][156]LightingResults: New page: Lighting Build
+[2022.09.04-23.33.38:198][156]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.09.04-23.33.38:201][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2022.09.04-23.33.38:209][156]LogAudio: Display: Audio Device (ID: 1) registered with world 'DefaultMap'.
+[2022.09.04-23.33.38:211][156]LogAIModule: Creating AISystem for world DefaultMap
+[2022.09.04-23.33.38:302][156]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.09.04-23.33.38:310][156]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.09.04-23.33.38:321][156]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.09.04-23.33.38:321][156]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.112ms to complete.
+[2022.09.04-23.33.38:321][156]LogFileHelpers: Loading map 'DefaultMap' took 0.155
+[2022.09.04-23.33.38:326][156]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.04-23.33.38:326][156]LogContentValidation: Display: Validating World /Game/DefaultMap.DefaultMap
+[2022.09.04-23.33.38:327][156]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/DefaultMap_BuiltData.DefaultMap_BuiltData
+[2022.09.04-23.34.06:152][442]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_Game/Maps/DefaultMap_BuiltData" FILE="D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/_Game/Maps/DefaultMap_BuiltData.uasset" SILENT=true
+[2022.09.04-23.34.06:168][442]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Saved/DefaultMap_BuiltData18A8A76A4EB0AA823A83689005029C7E.tmp' to 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/_Game/Maps/DefaultMap_BuiltData.uasset'
+[2022.09.04-23.34.06:177][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.09.04-23.34.06:188][442]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Saved/DefaultMapFBB39C6642D6280F52389FBAB20243C8.tmp' to 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/_Game/Maps/DefaultMap.umap'
+[2022.09.04-23.34.06:191][442]LogFileHelpers: Saving map 'DefaultMap' took 0.022
+[2022.09.04-23.34.06:257][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2022.09.04-23.34.06:263][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2022.09.04-23.34.06:275][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2022.09.04-23.34.06:280][442]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2022.09.04-23.34.06:316][442]AssetCheck: New page: Asset Save: multiple assets
+[2022.09.04-23.34.06:316][442]LogContentValidation: Display: Validating World /Game/_Game/Maps/DefaultMap.DefaultMap
+[2022.09.04-23.34.06:316][442]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/_Game/Maps/DefaultMap_BuiltData.DefaultMap_BuiltData
+[2022.09.04-23.34.18:275][692]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.04-23.34.33:252][ 63]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.04-23.34.33:258][ 63]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.04-23.34.38:113][596]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Source/UltimateShooter/UltimateShooterGameModeBase.h'
+[2022.09.04-23.34.38:238][596]LogVSAccessor: Warning: Couldn't goto line number '1' in 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Source/UltimateShooter/UltimateShooterGameModeBase.cpp'
+[2022.09.04-23.35.16:317][209]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.04-23.35.16:397][209]LogSlate: Took 0.001865 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.09.04-23.35.36:645][510]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_Game/GameMode/UltimateShooterGameModeBaseBP.UltimateShooterGameModeBaseBP
+[2022.09.04-23.35.37:184][510]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0008 seconds. Added 126 classes and 0 folders.
+[2022.09.04-23.35.38:573][510]LogSlate: Window 'Add Blueprint Class' being destroyed
+[2022.09.04-23.35.38:693][510]LogRenderer: Reallocating scene render targets to support 1304x908 Format 10 NumSamples 1 (Frame:1).
+[2022.09.04-23.35.57:377][863]LogSlate: Window 'UltimateShooterGameModeBaseBP' being destroyed
+[2022.09.04-23.35.57:388][863]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.09.04-23.35.57:388][863]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.09.04-23.35.59:214][ 59]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Saved/UltimateShooterGameModeBaseBP8315BEDC4535DA681598839C2D1E29CC.tmp' to 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/_Game/GameMode/UltimateShooterGameModeBaseBP.uasset'
+[2022.09.04-23.35.59:236][ 59]AssetCheck: New page: Asset Save: UltimateShooterGameModeBaseBP
+[2022.09.04-23.35.59:236][ 59]LogContentValidation: Display: Validating Blueprint /Game/_Game/GameMode/UltimateShooterGameModeBaseBP.UltimateShooterGameModeBaseBP
+[2022.09.04-23.36.00:248][169]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.09.04-23.36.05:535][781]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2022.09.04-23.36.05:561][781]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.09.04-23.36.16:060][856]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2022.09.04-23.36.26:500][665]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.04-23.36.26:506][665]LogSlate: Window 'Project Settings' being destroyed
+[2022.09.04-23.36.49:969][388]LogSlate: Took 0.009709 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.09.04-23.36.52:424][655]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2022.09.04-23.36.54:295][655]LogSlate: Window 'Save Content' being destroyed
+[2022.09.04-23.36.54:348][655]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.09.04-23.36.54:358][655]LogSavePackage: Moving 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Saved/DefaultMap3578CAFB46538E872462179D3D6129AB.tmp' to 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Content/_Game/Maps/DefaultMap.umap'
+[2022.09.04-23.36.54:363][655]LogFileHelpers: Saving map 'DefaultMap' took 0.034
+[2022.09.04-23.36.54:374][655]AssetCheck: New page: Asset Save: DefaultMap
+[2022.09.04-23.36.54:374][655]LogContentValidation: Display: Validating World /Game/_Game/Maps/DefaultMap.DefaultMap
+[2022.09.05-00.50.21:286][595]Running C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -projectfiles -project="D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/UltimateShooter.uproject" -game -rocket -progress
+[2022.09.05-00.50.22:401][595]Discovering modules, targets and source code for project...
+[2022.09.05-00.50.30:039][595]Binding IntelliSense data...
+[2022.09.05-00.50.35:180][595]Binding IntelliSense data... 100%
+[2022.09.05-00.50.35:180][595]Writing project files...
+[2022.09.05-00.50.44:226][595]Writing project files... 100%
+[2022.09.05-00.50.44:481][595]Candidate modules for hot reload:
+[2022.09.05-00.50.44:481][595]  UltimateShooter
+[2022.09.05-00.50.44:481][595]Launching UnrealBuildTool... [C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/DotNET/UnrealBuildTool.exe  -ModuleWithSuffix=UltimateShooter,0136 UltimateShooterEditor Win64 Development -Project="D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/UltimateShooter.uproject" "D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/UltimateShooter.uproject"  -IgnoreJunk]
+[2022.09.05-00.51.16:417][595]CompilerResultsLog: New page: Compilation - Sep 4, 2022, 4:51:16 PM
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: Using 'git status' to determine working set for adaptive non-unity build (D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter).
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: Creating makefile for UltimateShooterEditor (no existing makefile)
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: Parsing headers for UltimateShooterEditor
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   Running UnrealHeaderTool "D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\UltimateShooter.uproject" "D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UltimateShooterEditor\Development\UltimateShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Squid\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: LogInit: Display: Loading text-based GConfig....
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: Reflection code generated for UltimateShooterEditor in 16.2954083 seconds
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: Building UltimateShooterEditor...
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
+[2022.09.05-00.51.16:418][595]CompilerResultsLog: Building 9 actions with 8 processes...
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [1/9] UltimateShooter.init.gen.cpp
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [2/9] UltimateShooter.cpp
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [3/9] UltimateShooterGameModeBase.cpp
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [4/9] ShooterCharacter.cpp
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [5/9] UltimateShooterGameModeBase.gen.cpp
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [6/9] ShooterCharacter.gen.cpp
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [7/9] UE4Editor-UltimateShooter-0136.lib
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:      Creating library D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0136.lib and object D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0136.exp
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:   [8/9] UE4Editor-UltimateShooter-0136.dll
+[2022.09.05-00.51.16:418][595]CompilerResultsLog:      Creating library D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0136.suppressed.lib and object D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0136.suppressed.exp
+[2022.09.05-00.51.16:419][595]CompilerResultsLog:   [9/9] UltimateShooterEditor.target
+[2022.09.05-00.51.16:419][595]CompilerResultsLog: Total time in Parallel executor: 10.44 seconds
+[2022.09.05-00.51.16:419][595]CompilerResultsLog: Total execution time: 31.80 seconds
+[2022.09.05-00.51.16:419][595]LogMainFrame: MainFrame: Module compiling took 31.968 seconds
+[2022.09.05-00.51.16:463][595]LogClass: Could not find existing class ShooterCharacter in package /Script/UltimateShooter for HotReload, assuming new class
+[2022.09.05-00.51.16:471][595]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UltimateShooter' in 0.0005 seconds. Added 2 classes and 2 folders.
+[2022.09.05-00.51.16:483][595]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.09.05-00.51.16:681][595]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0233 seconds. Added 3824 classes and 930 folders.
+[2022.09.05-00.51.16:705][595]Display: HotReload took 32.3s.
+[2022.09.05-00.51.16:718][595]Warning: HotReload operation took 32.3s.
+[2022.09.05-00.51.17:033][595]LogVSAccessor: Warning: Couldn't open file 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Source/UltimateShooter/ShooterCharacter.h'.
+[2022.09.05-00.51.17:034][595]LogVSAccessor: Warning: Couldn't open file 'D:/Projects/Unreal Projects/Udemy/Cpp/UltimateShooter/UltimateShooter/Source/UltimateShooter/ShooterCharacter.cpp'.
+[2022.09.05-00.51.17:036][595]LogVSAccessor: Warning: Couldn't access Visual Studio
+[2022.09.05-00.51.17:056][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:056][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:056][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:056][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:056][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:056][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:057][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:057][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:057][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:057][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:057][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:057][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:058][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:058][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:058][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:058][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:058][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:058][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:058][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:059][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:059][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:059][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:059][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:059][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:060][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:060][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:060][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:060][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:060][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:060][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:061][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:061][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:061][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:061][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:061][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:061][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:062][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:063][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:063][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:063][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:063][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:064][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:064][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:064][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:064][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:064][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:064][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:064][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:065][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:065][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:065][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:065][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:065][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:066][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:067][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:067][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:067][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:067][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:067][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:067][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:068][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:068][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:068][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:068][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:068][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:068][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:069][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:069][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:069][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:069][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:069][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:070][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:072][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:086][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:090][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:090][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:090][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:090][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:090][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:091][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:091][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:091][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:092][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:092][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:094][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:094][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:094][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:094][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:095][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:095][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:096][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:097][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:101][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:107][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:107][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:123][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:195][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:195][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:195][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:195][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:197][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:213][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:213][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:231][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:233][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:233][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:250][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:250][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:278][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:279][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:423][595]LogVSAccessor: Warning: Couldn't access module table
+[2022.09.05-00.51.17:765][595]LogSlate: Window 'Add C++ Class' being destroyed
+[2022.09.05-00.51.18:415][595]LogHotReload: New module detected: UE4Editor-UltimateShooter-0136.dll
+[2022.09.05-00.51.18:481][596]LogHotReload: Starting Hot-Reload from IDE
+[2022.09.05-00.51.18:502][596]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'UltimateShooter' in 0.0004 seconds. Added 2 classes and 2 folders.
+[2022.09.05-00.51.18:509][596]Display: HotReload successful (0 functions remapped  0 scriptstructs remapped)
+[2022.09.05-00.51.18:524][596]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0147 seconds. Added 3824 classes and 930 folders.
+[2022.09.05-00.51.18:536][596]Display: HotReload took  0.1s.

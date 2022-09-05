@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UltimateShooter.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{2457191C-8E3D-4E28-8854-C3386072C8FA}</UniqueIdentifier>
+      <UniqueIdentifier>{FD311543-767F-410F-9729-6B20DD5FC1C1}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UltimateShooter.Target.cs">
       <Filter>Source</Filter>
@@ -12,7 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <Filter Include="Config">
-      <UniqueIdentifier>{6FE77A3D-D0F6-410C-AFEA-C0363DB51103}</UniqueIdentifier>
+      <UniqueIdentifier>{56880814-D5D1-4027-8856-248DE835793C}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,8 +24,14 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\UltimateShooter">
-      <UniqueIdentifier>{9F2D50A7-89D6-4699-8109-948002A660A0}</UniqueIdentifier>
+      <UniqueIdentifier>{4C8EA362-B02F-4D4D-96C7-C0570157F9C7}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\UltimateShooter\ShooterCharacter.cpp">
+      <Filter>Source\UltimateShooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UltimateShooter\ShooterCharacter.h">
+      <Filter>Source\UltimateShooter</Filter>
+    </ClInclude>
     <None Include="..\..\Source\UltimateShooter\UltimateShooter.Build.cs">
       <Filter>Source\UltimateShooter</Filter>
     </None>
