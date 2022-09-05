@@ -21,7 +21,7 @@ void EmptyLinkFunctionForGeneratedCodeUltimateShooter_init() {}
 				nullptr,
 				0,
 				PKG_CompiledIn | 0x00000000,
-				0xB9CE3DEE,
+				0x5CAC42B7,
 				0xBC574A53,
 				METADATA_PARAMS(nullptr, 0)
 			};

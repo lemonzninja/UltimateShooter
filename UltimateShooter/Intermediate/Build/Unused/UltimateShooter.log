@@ -1,15 +1,18 @@
 ﻿  Using 'git status' to determine working set for adaptive non-unity build (D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter).
-  Deleted hot-reload file: D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Binaries\Win64\UE4Editor-UltimateShooter-0136.dll
-  Deleted hot-reload file: D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Binaries\Win64\UE4Editor-UltimateShooter-0136.pdb
-  Deleted hot-reload file: D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0136.lib
+  Parsing headers for UltimateShooterEditor
+    Running UnrealHeaderTool "D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\UltimateShooter.uproject" "D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UltimateShooterEditor\Development\UltimateShooterEditor.uhtmanifest" -LogCmds="loginit warning, logexit warning, logdatabase error" -Unattended -WarningsAsErrors -abslog="C:\Users\Squid\AppData\Local\UnrealBuildTool\Log_UHT.txt" -installed
+  LogInit: Display: Loading text-based GConfig....
+  Reflection code generated for UltimateShooterEditor in 23.7942125 seconds
   Building UltimateShooterEditor...
   Using Visual Studio 2022 14.33.31629 toolchain (C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629) and Windows 10.0.19041.0 SDK (C:\Program Files (x86)\Windows Kits\10).
-  Building 4 actions with 8 processes...
-    [1/4] ShooterCharacter.cpp
-    [2/4] UE4Editor-UltimateShooter.lib
-       Creating library D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter.lib and object D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter.exp
-    [3/4] UE4Editor-UltimateShooter.dll
-       Creating library D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter.suppressed.lib and object D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter.suppressed.exp
-    [4/4] UltimateShooterEditor.target
-  Total time in Parallel executor: 13.67 seconds
-  Total execution time: 15.81 seconds
+  Building 6 actions with 8 processes...
+    [1/6] UltimateShooter.init.gen.cpp
+    [2/6] ShooterCharacter.cpp
+    [3/6] ShooterCharacter.gen.cpp
+    [4/6] UE4Editor-UltimateShooter-0002.lib
+       Creating library D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0002.lib and object D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0002.exp
+    [5/6] UE4Editor-UltimateShooter-0002.dll
+       Creating library D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0002.suppressed.lib and object D:\Projects\Unreal Projects\Udemy\Cpp\UltimateShooter\UltimateShooter\Intermediate\Build\Win64\UE4Editor\Development\UltimateShooter\UE4Editor-UltimateShooter-0002.suppressed.exp
+    [6/6] UltimateShooterEditor.target
+  Total time in Parallel executor: 9.41 seconds
+  Total execution time: 35.55 seconds
